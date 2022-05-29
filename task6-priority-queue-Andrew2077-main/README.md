@@ -3,11 +3,9 @@
 
 ## Fill these info
 
-### Name: ....
-
-### Sec: ....
-
-### B.N.: ....
+## Name: Andrew Muhsen paramedis
+## Sec: 1 
+## B.N.: 15
 
 ### Did you implement remove function (YES|NO)? ...
 
