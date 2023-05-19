@@ -18,6 +18,6 @@ Data structure &amp; Algorithms course provided by faculty of engineering Cairo 
 - merge sort
 - Dynamic Programming
 - Greedy Algorithms
-- Divide and Conquer
+- Recursion 
 - Binary Search Trees
 - Priority Queues
