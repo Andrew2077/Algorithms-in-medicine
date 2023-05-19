@@ -5,4 +5,16 @@ Data structure &amp; Algorithms course provided by faculty of engineering Cairo 
 ## ID: 212201.ENG.SBE3027
 
 
-### These were all the tasks, i was asked to submit during the course
+### Course Description:
+- C++
+- Data Structures
+- Algorithms
+
+#### Content
+- Linked Lists
+- Stacks
+- Dynamic Programming
+- Greedy Algorithms
+- Divide and Conquer
+- Binary Search Trees
+- Priority Queues
