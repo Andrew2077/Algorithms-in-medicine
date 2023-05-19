@@ -13,6 +13,9 @@ Data structure &amp; Algorithms course provided by faculty of engineering Cairo 
 #### Content
 - Linked Lists
 - Stacks
+- Quick Sorting
+- insertion sort 
+- merge sort
 - Dynamic Programming
 - Greedy Algorithms
 - Divide and Conquer
